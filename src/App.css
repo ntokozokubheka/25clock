@@ -1,5 +1,5 @@
 body {
-  background-color: gray;
+  background-image: url("./wallpaper.jpg");
   font-size: 44px
 }
 
@@ -30,7 +30,7 @@ button {
 
 div > button {
   color: white;
-  background-color: green;
+  background-color: #0000FF;
 }
 
 div button:nth-child(2) {
